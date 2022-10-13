@@ -34,7 +34,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: My hobbies lie in thrifting, hiking and rescuing plants from shops.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sisa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sisa-khoza-1b54a9100/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sisa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sisa-khoza-1b54a9100/)
 
 ---
 
