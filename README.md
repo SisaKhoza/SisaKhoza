@@ -25,3 +25,11 @@
 ### :man_technologist: About Me :
 
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
+
+- :telescope: I’m working as a Software Developer writing code in a Service Oriented Architecture for an EDD company.
+
+- :seedling: Automation and Integration.
+
+- :zap: My hobbies lie in building projects, hiking and rescuing plants from shops.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sisa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sisa-khoza-1b54a9100/)
