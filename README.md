@@ -12,7 +12,16 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>-->
   <h1>
-  hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+    hi there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
+<div id="banner" align="center">
+  <img src="https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b76117d489b58ed701def4db35039383c1ccaa06fc7ed&rid=giphy.gif&ct=g" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+
+I am a Software Developer <img src="https://www.reddit.com/r/CatGifs/comments/640py3/meet_the_new_it_guy_xpost_raww/?st=j180my0k&sh=2230295e" width="30"> from India.
