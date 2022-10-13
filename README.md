@@ -24,4 +24,4 @@
 
 ### :man_technologist: About Me :
 
-I am a Software Developer <img src="https://www.reddit.com/r/CatGifs/comments/640py3/meet_the_new_it_guy_xpost_raww/?st=j180my0k&sh=2230295e" width="30"> from SOuth Africa.
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
