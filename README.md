@@ -28,7 +28,7 @@
 
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
 
-- :telescope: I’m working as a Software Developer writing code in a Service Oriented Architecture for an EDD company.
+- :telescope: I’m working as a Software Developer writing code in a business automation and integration company.
 
 - :seedling: Automation and Integration.
 
