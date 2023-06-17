@@ -1,3 +1,4 @@
+
 <div id="header" align="center">
   <img src="https://media.tenor.com/q9s_XmoedE8AAAAi/piske-usagi.gif" width="100"/>
 </div>
@@ -37,6 +38,15 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sisa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sisa-khoza-1b54a9100/)
 
 ---
+
+---
+
+### :page_with_curl: certifications :
+
+- AZ-204: Microsoft Azure Developer Associate
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="35698de1-6ca1-49aa-a090-b0c61c8e12c0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+- PL-300: Microsoft Power BI Data Analyst
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="745828df-b990-48e4-8792-820d2996aaa7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
