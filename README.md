@@ -42,10 +42,10 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### :page_with_curl: certifications :
 
 - AZ-204: Microsoft Azure Developer Associate
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="35698de1-6ca1-49aa-a090-b0c61c8e12c0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="35698de1-6ca1-49aa-a090-b0c61c8e12c0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 - PL-300: Microsoft Power BI Data Analyst
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="745828df-b990-48e4-8792-820d2996aaa7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="745828df-b990-48e4-8792-820d2996aaa7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ---
 
