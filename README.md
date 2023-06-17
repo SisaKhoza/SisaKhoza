@@ -28,7 +28,7 @@
 
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
 
-- :telescope: I’m working as a Software Developer writing code in a business automation and integration company.
+- :telescope: I’m working as a Software Developer writing code in a business automation and integration company.  I am only on contract to a bank, working in the Middleware and Incident Management teams.
 
 - :seedling: Automation and Integration.
 
