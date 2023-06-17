@@ -45,7 +45,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 [Credly](https://www.credly.com/badges/35698de1-6ca1-49aa-a090-b0c61c8e12c0/public_url)
 
 - PL-300: Microsoft Power BI Data Analyst
-[[Credly](https://www.credly.com/badges/745828df-b990-48e4-8792-820d2996aaa7/public_url)
+[Credly](https://www.credly.com/badges/745828df-b990-48e4-8792-820d2996aaa7/public_url)
 
 ---
 
